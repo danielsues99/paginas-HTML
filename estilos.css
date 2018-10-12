@@ -1,0 +1,19 @@
+.titulo{
+   font-size: 1em;
+   color: rgb(120, 158, 58);
+   margin: 10em;
+}
+body{
+    color:white;
+    background-image: url(fondo1.jpg), url(fondo3.jpg);
+    background-repeat: no-repeat, repeat;
+}
+.sombrero{
+    margin-right: 10%;
+}
+h1 {
+    text-shadow: 2px 2px;
+}
+.texto1{
+    color: aqua;
+}
